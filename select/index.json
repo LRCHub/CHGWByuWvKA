@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ういデビル（feat. 雨衣）",
+  "base_artist": "ki-you",
+  "createdAt": "2026-03-13T06:43:51.847000Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ういデビル (feat. 雨衣)",
+      "artist": "ki-you",
+      "has_synced": false,
+      "path": "select/pl_01_ういデビル_(feat._雨衣)_ki-you.txt"
+    }
+  ]
+}
